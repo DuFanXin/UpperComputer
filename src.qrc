@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/open.png</file>
+        <file>src/FireAlarm.gif</file>
+        <file>src/stop1.png</file>
+        <file>src/wait.png</file>
+        <file>src/call.gif</file>
+        <file>src/money.jpg</file>
+        <file>src/park.jpg</file>
+        <file>src/person.png</file>
+    </qresource>
+</RCC>
